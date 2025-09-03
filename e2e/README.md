@@ -1,4 +1,4 @@
-# End To End (e2e) Tests
+# End To End 
 
 The purpose of the E2E tests is to have a simple (currently) test that gives maintainers some confidence in the black box behavior of our artifacts. It does this by:
  * Building the `github-mcp-server` docker image
