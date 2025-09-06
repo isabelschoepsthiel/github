@@ -1,6 +1,4 @@
-// Package toolsnaps provides test utilities for ensuring json schemas for tools
-// have not changed unexpectedly.
-package toolsnaps
+// Package toolsnaps provides test utilities package toolsnaps
 
 import (
 	"encoding/json"
@@ -8,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/josephburnett/jd/v2"
+	"github.com/isabelschoepsthiel/jd/v2"
 )
 
 // Test checks that the JSON schema for a tool has not changed unexpectedly.
