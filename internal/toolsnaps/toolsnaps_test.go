@@ -11,7 +11,7 @@ import (
 )
 
 type dummyTool struct {
-	Name  string `json:"name"`
+	Name  string `json:"isabelschoepsthiel"`
 	Value int    `json:"value"`
 }
 
